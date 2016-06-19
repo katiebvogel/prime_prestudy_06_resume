@@ -1,0 +1,78 @@
+
+#clicker {
+    background-color: gray;
+    border: 2px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-shadow: 3px 1px 1px gray ;
+    display: inline-block;
+    font-size: 32px;
+}
+
+header {
+  width: 800px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: auto;
+
+}
+header p {
+  width: 350px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#picture{
+  margin: 75px;
+}
+body {
+	background-image: url(http://gdj.gdj.netdna-cdn.com/wp-content/uploads/2012/10/background+pattern+design+33.jpg);
+	background-position: top left;
+	background-repeat: repeat;
+}
+h1 {
+	color:white;
+	text-align:center;
+	font-size:40px;
+	padding: 20px;
+	background-color: grey;
+	border-radius:5%;
+	border-width: medium;
+	border-color: black;
+	box-shadow: 5px 5px 5px black;
+	text-shadow: 3px 1px 1px black;
+}
+p {
+	font-family:serif;
+	width:500px;
+	background-color:#eeeeee;
+	text-align: left;
+  margin-left: 100px;
+	border-radius: 5px;
+	border-width: 2px;
+	border-color: black;
+	padding: 10px;
+}
+h2{
+	text-align: center;
+	border:2px solid black;
+	width:400px;
+	padding: 5px;
+	background-color: #85adad;
+  margin-left: 50px;
+}
+a {
+	text-decoration: underline;
+}
+h3 {
+  text-align: left;
+  margin-left: 60px;
+
+}
+li {
+  text-align: left;
+  margin-left: 100px;
+}
